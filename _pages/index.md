@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WHAT IS ROLEPLAY?
+title: "Roleplay: understanding systems"
 permalink: /
 ---
 
