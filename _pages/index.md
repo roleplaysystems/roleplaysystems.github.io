@@ -69,8 +69,6 @@ These samples can be viewed by the humans in the context of the original model. 
 
 ### WHERE WE ARE
 
-Roleplay will be available commercially before the end of 2022, with a very permissive free tier. 
-
-If you are interested in giving Roleplay a go, or have any questions or comments, let me know:
+Roleplay will be available before the end of 2022. If you are interested in giving it a go, or have any questions or comments, let me know:
 
 #### [hi@roleplay.systems](mailto:hi@roleplay.systems)
