@@ -20,7 +20,7 @@ It is inherently visual and relies on many familiar representations like maps an
 
 The geographic map is the quintessential visual representation of data. Maps are usually structured such that most of space is devoted to visual marks, and a nearby _legend_ explains what these marks mean in terms of the underlying concepts. 
 
-Many of the great data visualizations follow the same pattern[^1]: there is the visual part with an assortment of colorful marks and a substantial amount of space devoted to the “How to read it?” section where the meaning of marks is explained.
+Many of the great data visualizations follow the same pattern: there is the visual part with an assortment of colorful marks and a substantial amount of space devoted to the “How to read it?” section where the meaning of marks is explained.
 
 ![]({{site.baseurl}}/img/humanism.png)
 
@@ -51,7 +51,7 @@ The inverse relationship, where we need to generate the tables based on marks, i
 
 Fortunately, there is a principled way to deal with all of these issues, and that involves embracing the ambiguity and treat everything probabilistically. We do not know exactly the contents of the underlying tables, but we can make judgements about which tables are more or less likely.
 
-Every combination of the underlying tables *T* provides a particular set of marks *M* using the forward tables->marks mapping. We only observe *M*, and may have some weak prior beliefs about the values in *T*[^4]. We can then compute the probability of a particular *T* *given* that the marks are *M*. In other words, we ensure that the tables we have in *T*, when passed through the lenses in tables->marks direction, would generate visual patterns similar to the pattern we observe.
+Every combination of the underlying tables *T* provides a particular set of marks *M* using the forward tables->marks mapping. We only observe *M*, and may have some weak prior beliefs about the values in *T*. We can then compute the probability of a particular *T* *given* that the marks are *M*. In other words, we ensure that the tables we have in *T*, when passed through the lenses in tables->marks direction, would generate visual patterns similar to the pattern we observe.
 
 ### PEEKING AT THE UNOBSERVABLE
 
@@ -69,6 +69,8 @@ These samples can be viewed by the humans in the context of the original model. 
 
 ### WHERE WE ARE
 
-Roleplay will be available before the end of 2022. If you are interested in giving it a go, or have any questions or comments, let me know:
+Roleplay will be available before the end of 2022. 
+
+If you are interested in giving it a go, or have any questions or comments, let me know:
 
 #### [hi@roleplay.systems](mailto:hi@roleplay.systems)
