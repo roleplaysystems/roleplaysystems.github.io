@@ -8,7 +8,7 @@ permalink: /
 
 You describe how the cells are related and fill in some cells with values, Roleplay infers the likely values for the remaining cells and shows you the samples. You can even directly add datapoints to graphs and see what values could have generated such a pattern.
 
-You can define _both_ a formula for a cell _and_ a value this cell takes. If some of the inputs are missing, we can estimate them, especially if they are also inputs to other cells. You can see, with proper uncertainty, things you did not observe (..) and things you cannot even observe directly (people's preferences), things in the future (sea levels) and things in the past (.. detective/history).
+You can define _both_ a formula for a cell _and_ a value this cell takes. If some of the inputs are missing, we can estimate them, especially if they are also inputs to other cells. You can see, with proper uncertainty, things you did not observe and things you cannot even observe directly, things in the future and things in the past.
 
 ![]({{site.baseurl}}/img/top.png)
 
